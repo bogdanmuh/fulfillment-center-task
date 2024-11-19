@@ -7,7 +7,7 @@
 Установите проект с помощью команды:
 
 ```sh
-$ npm i your-awesome-plugin-name
+$ https://github.com/bogdanmuh/fulfillment-center-task.git
 ```
 
 ##  Настройка базы данных
